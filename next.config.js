@@ -5,7 +5,7 @@ module.exports = {
     defaultLocale: "en",
   },
   images: {
-    domains: ['https://drupal-nextjs-marketing-site-three-sigma.vercel.app/'],
+    domains: ['drupal-nextjs-marketing-site-three-sigma.vercel.app'],
   },
   async rewrites() {
     return [
